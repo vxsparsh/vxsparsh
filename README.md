@@ -3,7 +3,7 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>0xSN1PE</b>, Currently I am a student in last year of high school. I am intrested in cyber security and have been working in various confrences as volunteer to gain experience. I also do web development and interested in A.I.</p>
+  <p>a.k.a <b>0xSN1PE</b>, Currently I am a student in last year of high school. I am intrested in cyber security and have been working in various confrences as volunteer to gain experience. My main field of intrest in cybersecurity is Penetration Testing, Reverse Engineering and Exploit Development. I also do web development and interested in A.I.</p>
   
   <p><b>Connect with me through:</b></p>
   

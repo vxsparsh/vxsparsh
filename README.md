@@ -7,9 +7,9 @@
   
   <p><b>Connect with me through:</b></p>
   
-[![Twitter Badge](https://img.shields.io/badge/-0xSN1PE-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/0xSN1PE)](https://twitter.com/0xSN1PE)
-[![Linkedin Badge](https://img.shields.io/badge/-SparshAnand-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-anand-9842421b2/)](https://www.linkedin.com/in/sparsh-anand-9842421b2/)
-[![Instagram Badge](https://img.shields.io/badge/-sparsh_x64x-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sparsh_x64x)](https://www.instagram.com/sparsh_x64x)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/0xSN1PE)](https://twitter.com/0xSN1PE)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-anand-9842421b2/)](https://www.linkedin.com/in/sparsh-anand-9842421b2/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sparsh_x64x)](https://www.instagram.com/sparsh_x64x)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sparshanand752@gmail.com)](mailto:sparshanand752@gmail.com)  
 <hr>
 
@@ -27,6 +27,6 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=Cerberus&theme=vue-dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=port-scanner&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=Nash-Scripts&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=Bash-Scripts&theme=vue-dark)
 
 </div>

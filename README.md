@@ -31,4 +31,6 @@
 
 
  
-### You can support me by buying a coffee <br> <a href="https://www.buymeacoffee.com/sparshanand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
+### You can support me by buying a coffee <br> <a href="https://www.buymeacoffee.com/sparshanand" target="_blank"> 
+<br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  

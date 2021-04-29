@@ -29,9 +29,8 @@
 <a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 
-<p align="center">
- 
+<center> 
 ### You can support me by buying a coffee <br> <a href="https://www.buymeacoffee.com/sparshanand" target="_blank"> 
 <br>
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
-</p>
+</center>

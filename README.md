@@ -26,10 +26,7 @@
 <a href="https://twitter.com/0xSN1PE"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
 <a href="https://instagram.com/sparsh_x64x"><img src="https://img.icons8.com/doodle/48/000000/instagram--v1.png"/></a>
 <a href="https://www.linkedin.com/in/sparsh-anand-9842421b2/"><img src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/></a>
-<a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+<a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a> <br>
+<a href="https://www.buymeacoffee.com/sparshanand" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"
 </p>
-
-
-### You can support me by buying a coffee <br> 
-<a href="https://www.buymeacoffee.com/sparshanand" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
 

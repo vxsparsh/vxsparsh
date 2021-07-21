@@ -9,6 +9,7 @@
 ## 🚩 Lead of Hackers Arcade
 ### ~> My field of interests are 🔦
 🏮 Penetration Testing
+🏮 Reverse Engineering
 🏮 Malware Analysis
 🏮 Web Development
 🏮 Designing

@@ -6,7 +6,7 @@
 <br>
 
 ## 🚌 I'm a Student
-## 🚩 Lead of Hackers Arcade
+## 🚩 Founder of Hackers Arcade
 ### ~> My field of interests are 🔦
 🏮 Penetration Testing
 🏮 Reverse Engineering

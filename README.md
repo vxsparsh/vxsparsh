@@ -5,9 +5,9 @@
 # Hey kind person welcome to my hub <img src="me.gif" height="60"/>
 <br>
 
-## 🚌 I'm a Student
+## 🚌 I'm a Security Researcher & Developer
 ## 🚩 Founder of Hackers Arcade
-### ~> My field of interests are 🔦
+### 🔦 My field of interests are ->
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis

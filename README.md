@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://github.com/xohan30/xohan30/blob/master/noodle.gif?raw=true" text-align=center; width="600"; height="300"/>
+<img src="https://c.tenor.com/M9Q_ScsPYMcAAAAC/cowboy-bebop-smoke.gif" text-align=center; width="600"; height="300"/>
 </p>
 
-# Hey kind person welcome to my hub <img src="me.gif" height="60"/>
+# Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
 <br>
 
 ## 🚌 I'm a Security Researcher & Developer
 ## 🚩 Founder of Hackers Arcade
-### 🔦 My field of interests are ->
+### My field of interests are-
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis

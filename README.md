@@ -28,5 +28,5 @@
 <a href="https://instagram.com/sparsh_x64x"><img src="https://img.icons8.com/doodle/48/000000/instagram--v1.png"/></a>
 <a href="https://www.linkedin.com/in/sparsh-anand-9842421b2/"><img src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/></a>
 <a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a> <br> <br>
-<a href="https://www.buymeacoffee.com/snipesec"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNC85OWY5YjlhMzgyYmQwZTJlZWFjNTRjZDQxMmViMzUzNC5qcGdAMzAwd18wZS53ZWJw&creator=Snipesec&is_creating=a%20Security%20Researcher%20&%20Developer&design_code=1&design_color=%235F7FFF&slug=snipesec" text-align=center; width="600"; height="400"/></a>
+<a href="https://www.buymeacoffee.com/snipesec"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNC85OWY5YjlhMzgyYmQwZTJlZWFjNTRjZDQxMmViMzUzNC5qcGdAMzAwd18wZS53ZWJw&creator=Snipesec&is_creating=a%20Security%20Researcher%20&%20Developer&design_code=1&design_color=%235F7FFF&slug=snipesec" text-align=center; width="650"; height="400"/></a>
 </p>

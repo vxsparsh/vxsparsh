@@ -1,13 +1,9 @@
-<p align="center">
-<a href="https://www.buymeacoffee.com/snipesec"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNC83NGRmMzk0YjFjZmZmMGNjNTdlYTA2NDE3OGIzMWZkZC5qcGdAMzAwd18wZS53ZWJw&creator=Sparsh+Anand&is_creating=a%20Security%20Researcher%20&%20Developer&design_code=1&design_color=%235F7FFF&slug=sparshanand" text-align=center; width="650"; height="350"/></a>
-</p>
-
 # Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
 <br>
 
 ## 🚌 I'm a Security Researcher & Developer
 ## 🚩 Founder of Hackers Arcade
-### My field of interests are-
+### My field of interests are:
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis

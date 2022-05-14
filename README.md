@@ -26,3 +26,5 @@
 <a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a> <br> <br>
 
 </p>
+
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxsparsh&show_icons=true&theme=radical)

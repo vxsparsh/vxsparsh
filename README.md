@@ -1,15 +1,15 @@
-# <p align="center">Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
+# <p align="center">Hey fam! Welcome to my hub <img src="me.gif" height="60"/> </p>
 <br>
 
-## 🚌 I'm a Security Researcher & Developer
-## 🚩 Founder of Hackers Arcade
+## <p align="center">🚌 I'm a Security Researcher & Developer</p>
+## <p align="center">🚩 Founder of Hackers Arcade</p>
 ### My field of interests are:
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis
 🏮 Web Development
 🏮 Designing
- </p>
+
  
 ```py
  Its okay to dream big. Even I have a big dream and I am working in steps to accomplish that dream of mine 

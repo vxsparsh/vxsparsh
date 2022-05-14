@@ -1,4 +1,4 @@
-# <p align="center">Hey fam! Welcome to my hub <img src="me.gif" height="60"/></p>
+# <p align="center">Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
 <br>
 
 ## 🚌 I'm a Security Researcher & Developer
@@ -9,6 +9,8 @@
 🏮 Malware Analysis
 🏮 Web Development
 🏮 Designing
+ 
+ </p>
 ```py
  Its okay to dream big. Even I have a big dream and I am working in steps to accomplish that dream of mine 
  Coz Linus Torvalds once quoted : "Start Small And Think About The Details" and i think that at first

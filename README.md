@@ -2,12 +2,13 @@
 ## <p align="center">🚌 I'm a Security Researcher & Developer</p>
 ## <p align="center">🚩 Founder of Hackers Arcade</p>
 ### <p align="center">My field of interests are:</p>
+<p align="center">
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis
 🏮 Web Development
 🏮 Designing
-
+</p>
  
 ```py
  Its okay to dream big. Even I have a big dream and I am working in steps to accomplish that dream of mine 

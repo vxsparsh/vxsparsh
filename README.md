@@ -1,9 +1,7 @@
 # <p align="center">Hey fam! Welcome to my hub <img src="me.gif" height="60"/> </p>
-<br>
-
 ## <p align="center">🚌 I'm a Security Researcher & Developer</p>
 ## <p align="center">🚩 Founder of Hackers Arcade</p>
-### My field of interests are:
+### <p align="center">My field of interests are:</p>
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis

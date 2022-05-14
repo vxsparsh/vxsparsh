@@ -27,4 +27,4 @@
 
 </p>
 
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxsparsh&show_icons=true&theme=radical)
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxsparsh&show_icons=true&theme=dracula)

@@ -6,6 +6,7 @@
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis
+🏮 DFIR
 🏮 Web Development
 🏮 Designing
 

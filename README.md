@@ -1,6 +1,5 @@
 # Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
-## 🚌 I'm a Security Researcher & Developer
-## 🚩 Founder of Hackers Arcade & CTF Scenario Developer at Threat Simulations
+## 🚌 I'm a Reverse Engineer & Security Researcher
 ### My field of interests are:
 
 🏮 Penetration Testing

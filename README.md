@@ -1,7 +1,3 @@
-# Hey fam! Welcome to my hub <img src="me.gif" height="60"/>
-## 🚌 I'm an Ethical Hacker & Developer
-### My field of interests are:
-
 🏮 Penetration Testing
 🏮 Reverse Engineering
 🏮 Malware Analysis

@@ -3,8 +3,8 @@
 🏮 Reverse Engineering
 🏮 Malware Analysis
 🏮 DFIR
-🏮 Web Development
-🏮 Designing
+🏮 Development
+
 </div>
 <br> <br>
 <p align="center">

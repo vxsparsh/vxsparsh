@@ -3,7 +3,7 @@
 🏮 Reverse Engineering
 🏮 Malware Analysis
 🏮 DFIR
-🏮 Development
+🏮 CTF Developer
 
 </div>
 <br> <br>

@@ -7,9 +7,6 @@
 
 </div>
 <br> <br>
-<p align="center">
-<a href="https://twitter.com/0xSN1PE"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
-</p>
 
 <p align="center">
 <a href="https://github.com/vxsparsh">
